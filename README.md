@@ -1,6 +1,7 @@
 # sbyn-research
 
-Comparison of the effectiveness of each suicide prevention treatment on the target population
+Comparison of the effectiveness of each suicide prevention treatment on the target population  
+Through this study, I sought to emphasize the importance of selecting an appropriate treatment according to the number of target population. In addition, no matter how much treatment reduces the suicide rate, the treatment time to achieve maximum effect was also considered. However, since each coefficient in this result tends to be determined based on the author's experience and judgment, there seems to be a need to obtain more accurate coefficients through actual cases and research. I also expect to be able to design more treatments and compare the effects of various treatments by using this algorithm.
 
 ## Usage
 
