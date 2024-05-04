@@ -1,0 +1,16 @@
+{
+  "name": "sbyn-research",
+  "version": "1.0.0",
+  "description": "Comparison of the effectiveness of each suicide prevention treatment on the target population",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@smiilliin/genetic-algorithm": "^1.0.2"
+  }
+}
